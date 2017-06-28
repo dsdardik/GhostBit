@@ -5,6 +5,8 @@ Once an image is encrypted it can be sent privately or publicly and no one besid
 
 To ensure the secruity of this program, the text is encrypted before it is proccessed into the picture. Therefore only receivers who know the password can recover the message and not everyone who downloaded this extension.
 
+GhostBit is an ongoing project. The next feature to be added will allow for a hidden image to be stored within an image instead of text.
+
 
 ## Prerequisites
 All you need to get started is to download and install Google Chrome. Then download the source folder.

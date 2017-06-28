@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<title>GhostBit</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	
+	<body>
+	
+	<h3><center>GhostBit</center></h3>
+	<hr>
+	
+	<textarea id="message" placeholder="Type a secret message!" rows=4 autofocus="true"></textarea>
+	<input class="pass" id="password" type="password" placeholder="Password"></input>
+	<input type="file" id="file"></input>
+	<div>
+		<label class="switch">
+			<input id="mode" type="checkbox">
+			<div class="slider round"></div>
+		</label>
+		<span class="label" id="modeLabel"><p>Mode: Encode</p></span>
+	</div>
+	<br />
+	<span id="response"><p></p></span>
+    <img id="image" src="#" alt="your image" />
+	
+	</body>
+	<script type="text/javascript" src="CryptoJS.js"></script>
+	<script type="text/javascript" src="popup.js"></script>
+</html>

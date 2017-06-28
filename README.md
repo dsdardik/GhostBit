@@ -17,3 +17,13 @@ Start by typing a message and a password. If no password is entered the program 
 If encrypting a file just upload a file and the new picture will be dispplayed on the screen. To share the picture you can drag it or right click and choose "Save as...".
 
 To decrypt an image reload the page, type in the password, and click on the slider to activate decrypt mode. Then upload the file and a message will apear on the screen.
+
+Unfortunately not all images work with this program so try another picture if it doesn't work the first time.
+
+## Author
+
+David Dardik
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details

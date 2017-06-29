@@ -9,7 +9,7 @@ GhostBit is an ongoing project. The next feature to be added will allow for a hi
 
 
 ## Prerequisites
-All you need to get started is to download and install Google Chrome. Then download the source folder.
+All you need to get started is to download and install [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html). Then download the source folder.
 
 ## Installing
 After downloading the source folder go to Settings: Extensions. Drag and drop the folder into your extensions list.

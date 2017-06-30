@@ -7,6 +7,7 @@ To ensure the secruity of this program, the text is encrypted before it is procc
 
 GhostBit is an ongoing project. The next feature to be added will allow for a hidden image to be stored within an image instead of text.
 
+GhostBit is a client-side application written in JavaScript.
 
 ## Prerequisites
 All you need to get started is to download and install [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html). Then download the source folder.
